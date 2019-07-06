@@ -71,6 +71,16 @@ print(Z[Z>15]) # [51 55 19]
 
 <br>
 
+##### Broadcasting
+
+![https://github.com/WegraLee/deep-learning-from-scratch/blob/master/ch01/images/fig%201-1.png?raw=true](https://github.com/WegraLee/deep-learning-from-scratch/blob/master/ch01/images/fig%201-1.png?raw=true)
+
+
+
+![https://github.com/WegraLee/deep-learning-from-scratch/blob/master/ch01/images/fig%201-2.png?raw=true](https://github.com/WegraLee/deep-learning-from-scratch/blob/master/ch01/images/fig%201-2.png?raw=true)
+
+<br>
+
 1차원 배열 : vector
 
 2차원 배열 : matrix
